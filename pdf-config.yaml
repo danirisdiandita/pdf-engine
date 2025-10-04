@@ -1,0 +1,40 @@
+---
+title: "Multilingual + LaTeX Demonstration"
+author: "NoteSpark"
+date: "`date`"
+lang: en
+mainfont: "Noto Sans"
+sansfont: "Noto Sans"
+monofont: "Noto Sans Mono"
+CJKmainfont: "Noto Sans CJK SC"
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \setotherlanguages{
+      arabic, hebrew, russian, greek, german, french, spanish, italian,
+      chinese, japanese, korean, hindi, bengali, tamil, telugu, thai,
+      vietnamese, indonesian, malay, filipino, swedish, norwegian, finnish,
+      polish, czech, slovak, hungarian, romanian, bulgarian, serbian, croatian,
+      ukrainian, turkish, persian, urdu, swahili, amharic, yoruba, zulu,
+      xhosa, igbo, latin, esperanto, icelandic, irish, welsh, catalan,
+      galician, basque, estonian, lithuanian, latvian, armenian, georgian,
+      lao, khmer, burmese, nepali, sinhala, pashto, kurdish, mongolian,
+      uzbek, kazakh, tajik, turkmen, malagasy, somali, hausa, azerbaijani,
+      albanian, bosnian, slovene, afrikaans
+    }
+  - \newfontfamily\arabicfont{Noto Naskh Arabic}
+  - \newfontfamily\hebrewfont{Noto Sans Hebrew}
+  - \newfontfamily\devanagarifont{Noto Sans Devanagari}
+  - \newfontfamily\thaifont{Noto Sans Thai}
+  - \newfontfamily\cjkfont{Noto Sans CJK SC}
+  - \newfontfamily\koreanfont{Noto Sans CJK KR}
+  - \newfontfamily\japanesefont{Noto Sans CJK JP}
+  - \newfontfamily\ethiopicfont{Noto Sans Ethiopic}
+  - \newfontfamily\armenianfont{Noto Sans Armenian}
+  - \newfontfamily\georgianfont{Noto Sans Georgian}
+  - \newfontfamily\tamilfont{Noto Sans Tamil}
+  - \newfontfamily\telugufont{Noto Sans Telugu}
+  - \newfontfamily\khmerfont{Noto Sans Khmer}
+  - \newfontfamily\laofont{Noto Sans Lao}
+  - \newfontfamily\arabicfontsf{Noto Naskh Arabic}
+---

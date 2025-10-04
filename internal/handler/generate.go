@@ -48,7 +48,8 @@ func Generate(c *gin.Context) {
 			"-V", "arabicfont=\"Noto Sans Arabic\"",
 			"-V", "devanagarifont=\"Noto Sans Devanagari\"",
 			"-V", "thaifont=\"Noto Sans Thai\"",
-			"-V", "geometry:margin=1in")
+			"-V", "geometry:margin=1in",
+			"--verbose")
 
 		if err := cmd.Run(); err != nil {
 			c.JSON(http.StatusInternalServerError, gin.H{"status": "error", "message": fmt.Sprintf("Pandoc command failed: %v", err)})

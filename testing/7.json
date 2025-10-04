@@ -1,0 +1,16 @@
+[
+    {"lang": "ro", "text": "Salut lume, test de fizică. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ și inline $E = mc^2$"},
+    {"lang": "sv", "text": "Hej världen, fysiktest. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ och inline $E = mc^2$"},
+    {"lang": "ta", "text": "வணக்கம் உலகம், இயற்பியல் சோதனை. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ மற்றும் வரிசை $E = mc^2$"},
+    {"lang": "te", "text": "హలో ప్రపంచం, భౌతిక పరీక్ష. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ మరియు ఇన్‌లైన్ $E = mc^2$"},
+    {"lang": "th", "text": "สวัสดีโลก การทดสอบฟิสิกส์ $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ และสมการ $E = mc^2$"},
+    {"lang": "tr", "text": "Merhaba dünya, fizik testi. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ ve satır içi $E = mc^2$"},
+    {"lang": "uk", "text": "Привіт, світе, тест з фізики. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ і в рядку $E = mc^2$"},
+    {"lang": "ur", "text": "ہیلو دنیا، طبیعیات کا امتحان۔ $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ اور لائن میں $E = mc^2$"},
+    {"lang": "vi", "text": "Xin chào thế giới, kiểm tra vật lý. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ và nội tuyến $E = mc^2$"},
+    {"lang": "xh", "text": "Molo hlabathi, uvavanyo lwefiziksi. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ kunye nolayini $E = mc^2$"},
+    {"lang": "yi", "text": "העלא וועלט, פיזיק טעסט. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ און אינליין $E = mc^2$"},
+    {"lang": "yo", "text": "Bawo ni aye, idanwo fisiksi. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ ati inline $E = mc^2$"},
+    {"lang": "zu", "text": "Sawubona mhlaba, ukuhlolwa kwefiziksi. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ kanye nolayini $E = mc^2$"}
+  ]
+  

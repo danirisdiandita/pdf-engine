@@ -1,0 +1,87 @@
+[
+    {
+      "lang": "en",
+      "text": "Hello world, let's explore quantum physics! $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ and inline $E = mc^2$"
+    },
+    {
+      "lang": "zh",
+      "text": "你好，世界！让我们探索量子物理。$$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ 内联公式 $E = mc^2$"
+    },
+    {
+      "lang": "de",
+      "text": "Hallo Welt, lass uns die Quantenphysik erkunden! $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ und inline $E = mc^2$"
+    },
+    {
+      "lang": "es",
+      "text": "¡Hola mundo! Exploremos la física cuántica. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ y en línea $E = mc^2$"
+    },
+    {
+      "lang": "ru",
+      "text": "Привет, мир! Давайте изучать квантовую физику. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ и формула $E = mc^2$"
+    },
+    {
+      "lang": "ko",
+      "text": "안녕 세상! 양자 물리학을 탐구해 봅시다. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ 그리고 인라인 $E = mc^2$"
+    },
+    {
+      "lang": "ja",
+      "text": "こんにちは世界！量子物理を探検しましょう。$$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ そしてインライン $E = mc^2$"
+    },
+    {
+      "lang": "fr",
+      "text": "Bonjour le monde ! Explorons la physique quantique. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ et en ligne $E = mc^2$"
+    },
+    {
+      "lang": "it",
+      "text": "Ciao mondo! Esploriamo la fisica quantistica. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ e in linea $E = mc^2$"
+    },
+    {
+      "lang": "pt",
+      "text": "Olá mundo! Vamos explorar a física quântica. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ e em linha $E = mc^2$"
+    },
+    {
+      "lang": "nl",
+      "text": "Hallo wereld! Laten we kwantumfysica verkennen. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ en inline $E = mc^2$"
+    },
+    {
+      "lang": "sv",
+      "text": "Hej världen! Låt oss utforska kvantfysik. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ och inline $E = mc^2$"
+    },
+    {
+      "lang": "no",
+      "text": "Hei verden! La oss utforske kvantefysikk. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ og inline $E = mc^2$"
+    },
+    {
+      "lang": "da",
+      "text": "Hej verden! Lad os udforske kvantefysik. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ og inline $E = mc^2$"
+    },
+    {
+      "lang": "fi",
+      "text": "Hei maailma! Tutkitaan kvanttifysiikkaa. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ ja inline $E = mc^2$"
+    },
+    {
+      "lang": "pl",
+      "text": "Witaj świecie! Poznajmy fizykę kwantową. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ oraz inline $E = mc^2$"
+    },
+    {
+      "lang": "cs",
+      "text": "Ahoj světe! Prozkoumejme kvantovou fyziku. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ a inline $E = mc^2$"
+    },
+    {
+      "lang": "sk",
+      "text": "Ahoj svet! Preskúmajme kvantovú fyziku. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ a inline $E = mc^2$"
+    },
+    {
+      "lang": "hu",
+      "text": "Helló világ! Fedezzük fel a kvantumfizikát. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ és inline $E = mc^2$"
+    },
+    {
+      "lang": "tr",
+      "text": "Merhaba dünya! Kuantum fiziğini keşfedelim. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ ve satır içi $E = mc^2$"
+    },
+    {
+      "lang": "el",
+      "text": "Γεια σου κόσμε! Ας εξερευνήσουμε την κβαντική φυσική. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ και inline $E = mc^2$"
+    }
+  ]
+  

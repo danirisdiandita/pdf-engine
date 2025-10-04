@@ -1,0 +1,83 @@
+[
+    {
+      "lang": "ar",
+      "text": "مرحبًا بالعالم! لنستكشف فيزياء الكم. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ والمعادلة داخل السطر $E = mc^2$"
+    },
+    {
+      "lang": "he",
+      "text": "שלום עולם! בואו נחקור את הפיזיקה הקוונטית. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ ומשוואה בשורה $E = mc^2$"
+    },
+    {
+      "lang": "hi",
+      "text": "नमस्ते दुनिया! आइए क्वांटम भौतिकी का अन्वेषण करें। $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ और इनलाइन $E = mc^2$"
+    },
+    {
+      "lang": "bn",
+      "text": "হ্যালো বিশ্ব! আসুন কোয়ান্টাম পদার্থবিদ্যা অন্বেষণ করি। $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ এবং ইনলাইন $E = mc^2$"
+    },
+    {
+      "lang": "ta",
+      "text": "வணக்கம் உலகம்! குவாண்டம் இயற்பியலை ஆராய்வோம். $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ மற்றும் வரியிலே $E = mc^2$"
+    },
+    {
+      "lang": "te",
+      "text": "హలో ప్రపంచం! క్వాంటం భౌతికశాస్త్రాన్ని పరిశీలిద్దాం. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ మరియు లైన్లో $E = mc^2$"
+    },
+    {
+      "lang": "ml",
+      "text": "ഹലോ ലോകമേ! ക്വാണ്ടം ഭൗതികശാസ്ത്രം അന്വേഷിക്കാം. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ കൂടാതെ ഇൻലൈൻ $E = mc^2$"
+    },
+    {
+      "lang": "si",
+      "text": "හෙලෝ ලෝකය! අපි ක්වොන්ටම් භෞතික විද්යාව සොයා බලමු. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ සහ රේඛීය $E = mc^2$"
+    },
+    {
+      "lang": "th",
+      "text": "สวัสดีโลก! มาสำรวจฟิสิกส์ควอนตัมกันเถอะ $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ และอินไลน์ $E = mc^2$"
+    },
+    {
+      "lang": "vi",
+      "text": "Xin chào thế giới! Hãy khám phá vật lý lượng tử. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ và nội tuyến $E = mc^2$"
+    },
+    {
+      "lang": "id",
+      "text": "Halo dunia! Mari jelajahi fisika kuantum. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ dan rumus inline $E = mc^2$"
+    },
+    {
+      "lang": "ms",
+      "text": "Hai dunia! Mari kita terokai fizik kuantum. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ dan formula sebaris $E = mc^2$"
+    },
+    {
+      "lang": "tl",
+      "text": "Kumusta mundo! Tuklasin natin ang pisikang kwantum. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ at inline $E = mc^2$"
+    },
+    {
+      "lang": "km",
+      "text": "សួស្តីពិភពលោក! យើងទៅស្វែងយល់អំពីរូបវិទ្យាគ្វាន់។ $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ និងក្នុងបន្ទាត់ $E = mc^2$"
+    },
+    {
+      "lang": "lo",
+      "text": "ສະບາຍດີໂລກ! ມາສຳຫຼວດຟີຊິກຄວອນຕຳ. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ ແລະສູດຂ້າງໃນ $E = mc^2$"
+    },
+    {
+      "lang": "my",
+      "text": "ဟယ်လိုကမ္ဘာလောက! ကွန်းတမ်ရုပ်ပညာကိုလေ့လာကြပါစို့။ $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ နှင့်အတူ $E = mc^2$"
+    },
+    {
+      "lang": "mn",
+      "text": "Сайн уу дэлхий! Квантын физикийг судлая. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ мөн inline $E = mc^2$"
+    },
+    {
+      "lang": "ne",
+      "text": "नमस्ते संसार! क्वान्टम भौतिकशास्त्र पत्ता लगाऔं। $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ र इनलाइन $E = mc^2$"
+    },
+    {
+      "lang": "ur",
+      "text": "ہیلو دنیا! آئیے کوانٹم فزکس کو دریافت کریں۔ $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ اور ان لائن $E = mc^2$"
+    },
+    {
+      "lang": "fa",
+      "text": "سلام دنیا! بیایید فیزیک کوانتومی را کشف کنیم. $$i\\hbar \\frac{\\partial \\Psi}{\\partial t} = \\hat{H}\\Psi$$ و درون‌خطی $E = mc^2$"
+    }
+  ]
+  

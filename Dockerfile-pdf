@@ -1,0 +1,33 @@
+# Dockerfile - minimal pandoc + xelatex with wide language support
+FROM debian:stable-slim
+
+ENV DEBIAN_FRONTEND=noninteractive \
+    LANG=C.UTF-8 \
+    LC_ALL=C.UTF-8
+
+# Install essentials: pandoc, xelatex + useful texlive packages, and Noto fonts
+RUN apt-get update \
+ && apt-get install -y --no-install-recommends \
+    ca-certificates \
+    wget \
+    pandoc \
+    fonts-noto \
+    fonts-noto-cjk \
+    fonts-noto-extra \
+    fonts-noto-ui-core \
+    texlive-xetex \
+    texlive-latex-recommended \
+    texlive-latex-extra \
+    texlive-fonts-recommended \
+    texlive-lang-all \
+ && apt-get clean \
+ && rm -rf /var/lib/apt/lists/*
+
+# Working directory (bind-mount your markdown directory here)
+WORKDIR /data
+
+# Copy a tiny wrapper entrypoint
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
+ENTRYPOINT ["/entrypoint.sh"]
