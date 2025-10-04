@@ -1,6 +1,7 @@
 package handler
 
 import (
+	"fmt"
 	"net/http"
 	"os"
 	"os/exec"
@@ -48,6 +49,17 @@ func Generate(c *gin.Context) {
 
 		// read file as byte and make response
 		file, err := os.ReadFile(filePath)
+
+		// delete input and output file
+		if err := os.Remove(inputFilePath); err != nil && !os.IsNotExist(err) {
+			c.JSON(http.StatusInternalServerError, gin.H{"status": "error", "message": fmt.Sprintf("Warning: could not remove file %s: %v\n", inputFilePath, err)})
+			return
+		}
+		if err := os.Remove(filePath); err != nil && !os.IsNotExist(err) {
+			c.JSON(http.StatusInternalServerError, gin.H{"status": "error", "message": fmt.Sprintf("Warning: could not remove file %s: %v\n", filePath, err)})
+			return
+		}
+
 		if err != nil {
 			c.JSON(http.StatusInternalServerError, gin.H{"status": "error", "message": err.Error()})
 			return
