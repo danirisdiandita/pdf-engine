@@ -42,10 +42,18 @@ func Generate(c *gin.Context) {
 	if type_ == model.PDFTypeNote {
 		cmd := exec.Command("pandoc", inputFilePath, "-o",
 			filePath,
-			"-V",
-			"geometry:margin=1in",
-			"-V", "mainfont=Helvetica")
-		cmd.Run()
+			"--pdf-engine=xelatex",
+			"-V", "mainfont=\"Noto Sans\"",
+			"-V", "CJKmainfont=\"Noto Sans CJK JP\"",
+			"-V", "arabicfont=\"Noto Sans Arabic\"",
+			"-V", "devanagarifont=\"Noto Sans Devanagari\"",
+			"-V", "thaifont=\"Noto Sans Thai\"",
+			"-V", "geometry:margin=1in")
+
+		if err := cmd.Run(); err != nil {
+			c.JSON(http.StatusInternalServerError, gin.H{"status": "error", "message": fmt.Sprintf("Pandoc command failed: %v", err)})
+			return
+		}
 
 		// read file as byte and make response
 		file, err := os.ReadFile(filePath)

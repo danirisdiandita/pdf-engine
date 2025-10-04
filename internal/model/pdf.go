@@ -9,6 +9,7 @@ const (
 )
 
 type PDFRequest struct {
-	Content string  `json:"content"`
-	Type    PDFType `json:"type"`
+	Content  string  `json:"content"`
+	Type     PDFType `json:"type"`
+	Language string  `json:"lang,omitempty"`
 }
