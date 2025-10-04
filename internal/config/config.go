@@ -10,12 +10,14 @@ import (
 type Config struct {
 	Port              string
 	DiscordWebhookURL string
+	AppEnv            string
 }
 
 func Load() *Config {
 	return &Config{
 		Port:              getEnv("PORT", "8080"),
 		DiscordWebhookURL: getEnv("DISCORD_WEBHOOK_URL", ""),
+		AppEnv:            getEnv("APP_ENV", "local"),
 	}
 }
 
