@@ -1,5 +1,7 @@
 services:
   pdf-engine:
+    container_name: pdf-engine
+    image: pdf-engine
     build: .
     ports:
       - "8097:8080"
